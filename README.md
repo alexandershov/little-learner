@@ -1,5 +1,5 @@
 ## What is it?
-Walkthrough the "Little Learner" book.
+Walkthrough of the book [Little Learner](https://www.amazon.com/Little-Learner-Straight-Line-Learning-ebook/dp/B0BCDKRPTJ).
 
 ## How to run it?
 ```shell
